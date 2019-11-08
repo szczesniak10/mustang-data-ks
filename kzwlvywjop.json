@@ -1,0 +1,13 @@
+{
+    "firstName": "Leo",
+    "lastName": "Messi",
+    "preferredName": "La Pulga",
+    "email":"lapulga@lewisu.edu",
+    "phoneNumber": "708-fcbar10",
+    "city":"Barcelona",
+    "Area": "Catalonya",
+    "Zip": "23123",
+    "lat":"41.24",
+    "lng": "-33.12",
+    "favoriteHobby": "soccer"
+}
